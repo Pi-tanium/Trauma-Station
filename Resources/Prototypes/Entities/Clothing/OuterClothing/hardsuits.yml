@@ -25,7 +25,7 @@
   - type: Armor
     modifiers:
       coefficients:
-        Heat: 0.2
+        Heat: 0.5
         Radiation: 0.15
   - type: ClothingSpeedModifier
     walkModifier: 0.7
