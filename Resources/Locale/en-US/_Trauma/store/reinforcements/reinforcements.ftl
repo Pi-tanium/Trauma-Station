@@ -9,6 +9,9 @@ reinforcement-sec-express-desc = A reinforcement officer, does not come with equ
 reinforcement-sec-specialist-name = Specialist Reinforcement Officer
 reinforcement-sec-specialist-desc = A reinforcement officer, this one is armored and armed. Minimum arrival time of three minutes.
 
+reinforcement-sec-medic-name = Brig Medic
+reinforcement-sec-medic-desc = A combat medic, heals and recovers hurt officers. Minimum arrival time of three minutes.
+
 reinforcement-assistant-name = Hire Assistant
 reinforcement-assistant-desc = Hire an assistant, fent not included. Minimum arrival time of three minutes.
 
