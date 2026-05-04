@@ -448,7 +448,7 @@
         Blunt: 0.8
         Slash: 0.85
         Piercing: 0.85
-        Heat: 0.2
+        Heat: 0.4
         Radiation: 0.05
   - type: EyeProtection
   - type: ComponentToggler
