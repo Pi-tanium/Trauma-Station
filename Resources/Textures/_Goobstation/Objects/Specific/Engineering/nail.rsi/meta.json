@@ -1,7 +1,7 @@
 {
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken at commit https://github.com/cmss13-devs/cmss13/commit/4ffd7d3dbb30a8a14980bc51abec44c39fc2e02d",
+    "copyright": "Taken at commit https://github.com/Trauma-Station/Trauma-Station/pull/2486/changes/42399f1cd5681b333b63441a4ce6f85a84785db7",
     "size": {
         "x": 32,
         "y": 32
@@ -12,4 +12,3 @@
         }
     ]
 }
-# Trauma
