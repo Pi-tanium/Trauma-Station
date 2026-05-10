@@ -32,7 +32,7 @@
         frequency: 20
       - !type:SpawnEntity
         entity: RHostileMobSpawner
-        number: 5
+        number: 2 # Trauma
     - reagents: [ Blood ]
       methods: [ Touch, Injection ]
       effects:
