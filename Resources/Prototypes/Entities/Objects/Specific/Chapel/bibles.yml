@@ -67,14 +67,16 @@
     delay: 10.0
   - type: Bible
     damage:
-      types:
-        Blunt: -5
-        Piercing: -5
-        Ballistic: -5 # Trauma
-        Slash: -5
-        Heat: -5
-        Cold: -5
-        Shock: -5
+      types: # Trauma - Buffing because it only works on crit
+        Blunt: -10
+        Piercing: -10
+        Ballistic: -10
+        Slash: -10
+        Heat: -10
+        Cold: -10
+        Shock: -10
+        Bloodloss: -10
+        Asphyxiation: -15
     damageOnFail:
       types:
         Blunt: 5
